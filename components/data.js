@@ -8,7 +8,7 @@ import {
 	AdjustmentsHorizontalIcon,
 } from "@heroicons/react/24/solid";
 
-import benefitOneImg from "../public/img/benefit-one.png";
+import benefitOneImg from "../public/img/taken.svg";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
@@ -33,7 +33,7 @@ const benefitOne = {
 		},
 		{
 			title: "Privacy-Centric Design",
-			desc: "Your privacy is our utmost priority. LensQuery is designed with stringent data protection measures, ensuring your snaps and queries remain confidential.",
+			desc: "Your privacy is our utmost priority. LensQuery is designed with stringent data protection measures, ensuring your snaps and queries remain confidential. LensQuery use your own OpenAI GPT key and store it locally on your device.",
 			icon: <ShieldCheckIcon />,
 		},
 	],
