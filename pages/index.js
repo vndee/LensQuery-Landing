@@ -10,6 +10,7 @@ import Footer from "../components/footer";
 import Testimonials from "../components/testimonials";
 import Cta from "../components/cta";
 import Faq from "../components/faq";
+import Guide from "../components/guide";
 import PopupWidget from "../components/popupWidget";
 
 const Home = () => {
@@ -34,17 +35,15 @@ const Home = () => {
 				understand and explore what you see.
 			</SectionTitle>
 			<Benefits data={benefitOne} />
-			{/* <Benefits imgPos="right" data={benefitTwo} /> */}
 			<SectionTitle
 				pretitle="Watch a video"
-				title="Learn how to fullfil your needs"
+				title="Learn how to use LensQuery"
 			>
-				This section is to highlight a promo or demo video of your
-				product. Analysts says a landing page with video has 3% more
-				conversion rate. So, don&apos;t forget to add one. Just like
-				this.
+				Quick highlights of LensQuery's features and how to use them.
 			</SectionTitle>
 			<Video />
+			<SectionTitle pretitle="First step" title="How to get started" />
+			<Guide />
 			<SectionTitle
 				pretitle="Testimonials"
 				title="Here's what our customers said"

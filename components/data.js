@@ -4,6 +4,7 @@ import {
 	LanguageIcon,
 	ShieldCheckIcon,
 	RocketLaunchIcon,
+	CubeTransparentIcon,
 	DevicePhoneMobileIcon,
 	AdjustmentsHorizontalIcon,
 } from "@heroicons/react/24/solid";
@@ -27,9 +28,9 @@ const benefitOne = {
 			icon: <RocketLaunchIcon />,
 		},
 		{
-			title: "Multi-Lingual Support",
-			desc: "LensQuery isn't just limited to English. We understand the importance of global learning, which is why our app supports multiple languages. Snap, learn, and converse in your preferred language.",
-			icon: <LanguageIcon />,
+			title: "Model-agnostic Application",
+			desc: "Empower your learning experience by choosing your preferred AI provider. Currently we're supporting OpenAI and OpenRouter, you're in control.",
+			icon: <CubeTransparentIcon />,
 		},
 		{
 			title: "Privacy-Centric Design",

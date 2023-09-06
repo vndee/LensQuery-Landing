@@ -13,8 +13,8 @@ module.exports = {
 			colors: {
 				trueGray: colors.neutral,
 				indigo: {
-					500: "#0000ff",
-					600: "#0000ff",
+					500: "#000080",
+					600: "#000080",
 				},
 			},
 		},
