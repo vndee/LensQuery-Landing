@@ -59,7 +59,25 @@ const Guide = (props) => {
 					</div>
 				</button>
 			</Container>
-			<Video />
+			<Container className="flex flex-wrap lg:gap-3 lg:flex-nowrap justify-center items-center">
+				{state === "openrouter" ? (
+					<iframe
+						src="https://scribehow.com/embed/Create_an_API_Key_for_OpenRouterai_with_Google_Sign-In__SnRzEjEeR12UFfAWsyolKA"
+						width="50%"
+						height="640"
+						allowFullScreen
+						frameBorder="0"
+					/>
+				) : (
+					<iframe
+						src="https://scribehow.com/embed/How_to_Create_a_Secret_Key_in_OpenAI_Platform__tN5WEq52RVqmlP6vklZ92A"
+						width="50%"
+						height="640"
+						allowFullScreen
+						frameBorder="0"
+					/>
+				)}
+			</Container>
 		</>
 	);
 };
