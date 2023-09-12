@@ -44,14 +44,14 @@ const Home = () => {
 			<Video />
 			<SectionTitle pretitle="First step" title="How to get started" />
 			<Guide />
-			<SectionTitle
+			{/* <SectionTitle
 				pretitle="Testimonials"
 				title="Here's what our customers said"
 			>
 				Testimonails is a great way to increase the brand trust and
 				awareness. Use this section to highlight your popular customers.
 			</SectionTitle>
-			<Testimonials />
+			<Testimonials /> */}
 			<SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
 				To get help on common questions or issues, check out our FAQ
 				below.
