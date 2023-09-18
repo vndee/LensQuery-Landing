@@ -1,0 +1,84 @@
+## LensQuery's Terms Of Use
+
+Last updated: 18 Sep, 2023
+
+Thank you for using LensQuery!
+
+These Terms of Use apply when you use, access, or visit LensQuery, including when you access LensQuery through a LensQuery mobile application (the "App") or through any other means. These Terms of Use are a legal contract between you and LensQuery, Inc. ("LensQuery," "we," "us," or "our") and govern your use of LensQuery, including all features and functionalities, instant messaging, and user interfaces, as well as all content and software associated with our service.
+
+### Acceptance of Terms of Use
+
+Please read these Terms of Use carefully before using LensQuery. By using LensQuery, you agree to be bound by these Terms of Use, including the policies referenced in these Terms of Use (such as our Privacy Policy and Cookie Policy). If you do not agree to these Terms of Use, you may not use LensQuery.
+
+### Use of LensQuery
+
+You may use LensQuery for your personal, non-commercial use only. You may not use LensQuery if we have terminated your account or banned you. You must be at least 13 years old to use LensQuery. If you are under the age of 18, you may only use LensQuery with the consent of your parent or legal guardian. Please have your parent or legal guardian read these Terms of Use with you.
+
+### Feedback
+
+We appreciate your feedback, ideas, and other suggestions about LensQuery, but you understand that you have no obligation to provide them to us, and that we may use them without any restriction or obligation to you.
+
+### Restrictions on Use
+
+You may not do any of the following while accessing or using LensQuery:
+
+-   Access, tamper with, or use non-public areas of LensQuery, LensQuery's computer systems, or the technical delivery systems of LensQuery's providers;
+-   Probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures;
+-   Access or search or attempt to access or search LensQuery by any means (automated or otherwise) other than through our currently available search functionalities that are provided via our website, mobile apps, or API (and only pursuant to those API terms and conditions). You may not scrape LensQuery, and you may not use any other automated means to collect content or other information from or otherwise access LensQuery;
+-   Use the output of LensQuery's to violate any law, regulation, or any person's or entity's intellectual property or other proprietary rights;
+
+### Third-Party Services
+
+With LensQuery, you may choose to use LLM (Large-Language Model) that provides by third-party organizations. If you choose to use LLM, you agree to be bound by the terms and conditions of the third-party organizations.
+
+### Content
+
+-   Your Content: You may provide input to LensQuery, including text, images, and other content ("Your Content"). You retain ownership of Your Content, this means that you can use Your Content for any purposes such as sale or publication without any restriction from LensQuery. You are responsible for Your Content. You represent and warrant that you have all the rights necessary to grant us the rights in Your Content described in these Terms of Use. You also represent and warrant that Your Content and the use and provision of Your Content on LensQuery will not violate any law, regulation, or rights of any third party, including without limitation any intellectual property rights or rights of privacy or publicity. You may not provide any input to LensQuery that is or contains the intellectual property of a third party unless you have permission from that third party. You may not provide any input to LensQuery that is or contains confidential or proprietary information of a third party unless you have permission from that third party. You are solely responsible for Your Content and the consequences of providing Your Content via LensQuery.
+
+-   Accuracy: Artificial intelligence is not perfect. LensQuery does not guarantee the accuracy of the output of LensQuery. You are solely responsible for the consequences of using the output of LensQuery. Given the probabilistic nature of machine learning, use of our Services may in some situations result in incorrect Output that does not accurately reflect real people, places, or facts. You should evaluate the accuracy of any Output as appropriate for your use case, including by using human review of the Output.
+
+### Fees and Payments
+
+-   Fees and Billing: You will pay all fees charged to your account (“Fees”) according to the prices and terms on the applicable pricing page, or as otherwise agreed between us in writing. We have the right to correct pricing errors or mistakes even if we have already issued an invoice or received payment. You will provide complete and accurate billing information including a valid and authorized payment method. We will charge your payment method on an agreed-upon periodic basis, but may reasonably change the date on which the charge is posted. You authorize us to obtain updated or replacement expiration dates and card numbers for your credit or debit card as provided by your credit or debit card issuer. You will promptly update your billing information with any changes (for example, a change in your billing address or credit card expiration date) that may occur. You will pay all taxes and other governmental charges related to your use of our Services. If you believe your bill is incorrect, you must contact us in writing within 60 days of the invoice date of the invoice containing the amount in question to be eligible to receive an adjustment or credit.
+
+-   Taxes: You are responsible for any Taxes, and you will pay us for the Services without any reduction for Taxes. If we are obligated to collect or pay Taxes, the Taxes will be invoiced to you, unless you provide us with a timely and valid tax exemption certificate authorized by the appropriate taxing authority. In some states the sales tax is due on the total purchase price at the time of sale and must be invoiced and collected at the time of the sale. If you are required by law to withhold any Taxes from your payments to us, you must provide us with an official tax receipt or other appropriate documentation to support such payments.
+
+-   Price changes: We may change the price of our Services at any time and if you have a recurring purchase, we will notify you by email, or other reasonable manner, at least 15 days before the price change. If you do not agree to the price change, you must cancel and stop using the Services before the price change takes effect. If there is a fixed term and price for your Service offer, that price will remain in force for the fixed term.
+
+-   Disputes and Late Payments: You must notify us in writing within seven days after receiving your credit card statement, if you dispute any of our charges on that statement or such dispute will be deemed waived. Billing disputes should be notified to the following email address: info@lensquery.com. We may suspend or terminate access to the Services for non-payment of amounts due.
+
+-   Free Trials and Other Promotions: Any free trial or other promotion that provides access to a Service must be used within the specified time of the trial. You must stop using a Service before the end of the trial period in order to avoid being charged for that Service. If you cancel prior to the end of the trial period and are inadvertently charged for a Service, please contact us at
+
+### Termination
+
+We may terminate or suspend your access to or ability to use LensQuery immediately, without prior notice or liability, for any reason or no reason, including breach of these Terms of Use. In particular, we may immediately terminate or suspend accounts that have been flagged for repeat copyright infringement.
+
+### Disclaimers
+
+-   LensQuery is Available "AS-IS": Your access to and use of LensQuery or any Content are at your own risk. You understand and agree that LensQuery is provided to you on an "AS IS" and "AS AVAILABLE" basis. Without limiting the foregoing, to the maximum extent permitted under applicable law, LENSQUERY DISCLAIMS ALL WARRANTIES AND CONDITIONS, WHETHER EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+-   LensQuery makes no warranty and disclaims all responsibility and liability for: (i) the completeness, accuracy, availability, timeliness, security, or reliability of LensQuery or any Content; (ii) any harm to your computer system, loss of data, or other harm that results from your access to or use of LensQuery or any Content; (iii) the deletion of, or the failure to store or to transmit, any Content and other communications maintained by LensQuery; and (iv) whether LensQuery will meet your requirements or be available on an uninterrupted, secure, or error-free basis. No advice or information, whether oral or written, obtained from LensQuery or through LensQuery, will create any warranty not expressly made herein.
+
+-   Links: LensQuery may contain links to third-party websites or resources. You acknowledge and agree that we are not responsible or liable for: (i) the availability or accuracy of such websites or resources; or (ii) the content, products, or services on or available from such websites or resources. Links to such websites or resources do not imply any endorsement by LensQuery of such websites or resources or the content, products, or services available from such websites or resources. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources or the content, products, or services on or available from such websites or resources.
+
+### Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LENSQUERY AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS, AND LICENSORS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE LENSQUERY; (ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON LENSQUERY, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES; (iii) ANY CONTENT OBTAINED FROM LENSQUERY; AND (iv) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT LENSQUERY HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+
+### General
+
+-   These Terms of Use constitute the entire and exclusive understanding and agreement between LensQuery and you regarding LensQuery, and these Terms of Use supersede and replace any and all prior oral or written understandings or agreements between LensQuery and you regarding LensQuery.
+
+-   Use of Brand Features: You may not use any LensQuery trademarks, service marks, logos, domain names, and other distinctive brand features. Any goodwill arising from your use of LensQuery's brand features will belong to LensQuery.
+
+-   Copyright Complaints: LensQuery respects the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify LensQuery of your infringement claim in accordance with the procedure set forth below.
+
+-   Modification: We reserve the right to modify, discontinue, or terminate LensQuery at any time without notice to you. For example, we may add or remove functionalities or features, and we may suspend or stop a particular feature altogether. We also reserve the right to charge a fee for any of our features at any time. If you don't like any changes, you can stop using LensQuery at any time.
+
+-   Entire Agreement: These Terms of Use constitute the entire and exclusive understanding and agreement between LensQuery and you regarding LensQuery, and these Terms of Use supersede and replace any and all prior oral or written understandings or agreements between LensQuery and you regarding LensQuery.
+
+-   Assignment: You may not assign or transfer these Terms of Use, by operation of law or otherwise, without LensQuery's prior written consent. Any attempt by you to assign or transfer these Terms of Use, without such consent, will be null. LensQuery may assign or transfer these Terms of Use, at its sole discretion, without restriction. Subject to the foregoing, these Terms of Use will bind and inure to the benefit of the parties, their successors, and permitted assigns.
+
+-   Notices: Any notices or other communications permitted or required hereunder, including those regarding modifications to these Terms of Use, will be in writing and given by LensQuery (i) via email (in each case to the address that you provide) or (ii) by posting to LensQuery. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted.
+
+-   Waiver and Severability: The failure of LensQuery to enforce any right or provision of these Terms of Use will not constitute a waiver of future enforcement of that right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of LensQuery. Except as expressly set forth in these Terms of Use, the exercise by either party of any of its remedies under these Terms of Use will be without prejudice to its other remedies under these Terms of Use or otherwise. If for any reason a court of competent jurisdiction finds any provision of these Terms of Use invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms of Use will remain in full force and effect.
