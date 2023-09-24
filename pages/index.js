@@ -35,13 +35,13 @@ const Home = () => {
 				understand and explore what you see.
 			</SectionTitle>
 			<Benefits data={benefitOne} />
-			<SectionTitle
+			{/* <SectionTitle
 				pretitle="Watch a video"
 				title="Learn how to use LensQuery"
 			>
 				Quick highlights of LensQuery's features and how to use them.
 			</SectionTitle>
-			<Video />
+			<Video /> */}
 			<SectionTitle pretitle="First step" title="How to get started" />
 			<Guide />
 			{/* <SectionTitle
