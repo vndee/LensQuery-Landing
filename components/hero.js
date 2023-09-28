@@ -11,10 +11,14 @@ const Hero = () => {
 						<h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white">
 							See. Snap & Learn
 						</h1>
+						<p className="text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
+							With Model-agnostic AI Application
+						</p>
 						<p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
 							Unleash the power of curiosity with LensQuery.
 							<br />
-							Snap a photo and learn about the world around you.
+							Snap a photo and choose your favorite model to talk
+							about it.
 						</p>
 
 						<div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">

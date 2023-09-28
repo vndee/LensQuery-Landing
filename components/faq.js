@@ -38,11 +38,11 @@ const Faq = () => {
 const faqdata = [
 	{
 		question: "What is LensQuery?",
-		answer: "LensQuery is an app that allows you to snap photos of text or equations and then, using advanced AI powered by GPT technology, provides insights, answers, and deeper understanding about the captured content.",
+		answer: "LensQuery is a mobile app that helps you understand and explore what you see. It uses AI to analyze images and provide in-depth insights.",
 	},
 	{
 		question: "How does LensQuery work?",
-		answer: "Simply capture an image of the content you're curious about, and LensQuery will analyze it. You can then engage in an AI-driven chat to explore the topic in depth.",
+		answer: "LensQuery uses AI to analyze images and provide in-depth insights. It also facilitates engaging AI-driven conversations about the captured material.",
 	},
 	{
 		question: "How does LensQuery ensure my data is safe?",
@@ -55,6 +55,10 @@ const faqdata = [
 	{
 		question: "How is LensQuery different from other OCR apps?",
 		answer: "While many OCR apps just convert images to text, LensQuery goes a step further. It analyzes content, offers in-depth insights, and facilitates engaging AI-driven conversations about the captured material.",
+	},
+	{
+		question: "Do I need API key to use LensQuery?",
+		answer: "Yes, currently LensQuery support OpenAI and OpenRouter models. You have to provide your own API key to use LensQuery.",
 	},
 ];
 
