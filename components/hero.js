@@ -18,30 +18,48 @@ const Hero = () => {
 						</p>
 
 						<div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
-							<a
-								href="https://web3templates.com/templates/nextly-landing-page-template-for-startups"
-								target="_blank"
-								rel="noopener"
-								className="bg-black rounded-xl hover:bg-gray-800"
-							>
+							<div className="flex flex-col">
+								<a
+									href="https://web3templates.com/templates/nextly-landing-page-template-for-startups"
+									target="_blank"
+									rel="noopener"
+									className="bg-black rounded-xl hover:bg-gray-800"
+								>
+									<Image
+										src="/img/ios_app_store.svg"
+										width={200}
+										height={60}
+									/>
+								</a>
 								<Image
-									src="/img/ios_app_store.svg"
+									src="https://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.lensquery&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L"
+									alt="qr code"
 									width={200}
-									height={60}
+									height={200}
+									className="mt-3"
 								/>
-							</a>
-							<a
-								href="https://github.com/web3templates/nextly-template/"
-								target="_blank"
-								rel="noopener"
-								className="bg-black rounded-xl hover:bg-gray-800"
-							>
+							</div>
+							<div className="flex flex-col">
+								<a
+									href="https://github.com/web3templates/nextly-template/"
+									target="_blank"
+									rel="noopener"
+									className="bg-black rounded-xl hover:bg-gray-800"
+								>
+									<Image
+										src="/img/google_play_store.svg"
+										width={200}
+										height={60}
+									/>
+								</a>
 								<Image
-									src="/img/google_play_store.svg"
+									src="https://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.lensquery&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L"
+									alt="qr code"
 									width={200}
-									height={60}
+									height={200}
+									className="mt-3"
 								/>
-							</a>
+							</div>
 						</div>
 					</div>
 				</div>
