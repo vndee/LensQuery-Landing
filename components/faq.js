@@ -60,6 +60,10 @@ const faqdata = [
 		question: "Do I need API key to use LensQuery?",
 		answer: "Yes, currently LensQuery support OpenAI and OpenRouter models. You have to provide your own API key to use LensQuery.",
 	},
+	{
+		question: "Do I need a subscription to use LensQuery?",
+		answer: "No, If you want to use the snap & OCR feature, you can subscribe to our monthly or yearly plan. Otherwise, you can use the app as the LLM chat playground with the chat features.",
+	},
 ];
 
 export default Faq;
