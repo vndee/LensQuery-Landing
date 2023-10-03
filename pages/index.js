@@ -26,10 +26,10 @@ const Home = () => {
 	return (
 		<>
 			<Head>
-				<title>LensQuery - Snap & Learn</title>
+				<title>LensQuery - Model-agnostic AI Chat Application</title>
 				<meta
 					name="description"
-					content="LensQuery - Unlock the power of modern AI models with LensQuery. Chose your favorite model and play around."
+					content="LensQuery - Unlock the power of modern AI models with LensQuery. Choose your favorite model and play around."
 				/>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
