@@ -9,16 +9,11 @@ const Hero = () => {
 				<div className="flex items-center w-full lg:w-1/2">
 					<div className="max-w-2xl mb-8">
 						<h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white">
-							See. Snap & Learn
+							Model-agnostic AI Chat Application
 						</h1>
-						<p className="text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-							With Model-agnostic AI Application
-						</p>
 						<p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-							Unleash the power of curiosity with LensQuery.
-							<br />
-							Snap a photo and choose your favorite model to talk
-							about it.
+							Unlock the power of modern AI models with LensQuery.
+							Chose your favorite model and play around.
 						</p>
 
 						<div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
@@ -36,7 +31,7 @@ const Hero = () => {
 									/>
 								</a>
 								<Image
-									src="https://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.lensquery&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L"
+									src="https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flensquery%2Fid6463097463&qzone=1&margin=0&size=400x400&ecc=L"
 									alt="qr code"
 									width={200}
 									height={200}
