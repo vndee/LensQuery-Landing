@@ -19,7 +19,7 @@ const Hero = () => {
 						<div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
 							<div className="flex flex-col">
 								<a
-									href="https://web3templates.com/templates/nextly-landing-page-template-for-startups"
+									href="https://apps.apple.com/us/app/lensquery/id6463097463"
 									target="_blank"
 									rel="noopener"
 									className="bg-black rounded-xl hover:bg-gray-800"
@@ -40,7 +40,7 @@ const Hero = () => {
 							</div>
 							<div className="flex flex-col">
 								<a
-									href="https://github.com/web3templates/nextly-template/"
+									href="https://play.google.com/store/apps/details?id=com.lensquery&pcampaignid=web_share"
 									target="_blank"
 									rel="noopener"
 									className="bg-black rounded-xl hover:bg-gray-800"
