@@ -15,6 +15,22 @@ const Hero = () => {
 							Unlock the power of modern AI models with LensQuery.
 							Choose your favorite model and play around.
 						</p>
+						<a
+							href="https://www.producthunt.com/posts/lensquery?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-lensquery"
+							target="_blank"
+						>
+							<img
+								src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=417785&theme=light"
+								alt="LensQuery - Model&#0045;agnostic&#0032;AI&#0032;Chat&#0032;Application | Product Hunt"
+								style={{
+									width: "250px",
+									height: "54px",
+									marginBottom: "20px",
+								}}
+								width="250"
+								height="54"
+							/>
+						</a>
 
 						<div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
 							<div className="flex flex-col">
