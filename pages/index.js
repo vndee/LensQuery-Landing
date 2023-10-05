@@ -54,11 +54,11 @@ const Home = () => {
 			{/* <SectionTitle pretitle="How it works" title="Screenshots" />
 			<Carousel images={screenshots} /> */}
 			{/* TODO: Need to implement carousel here */}
-			<SectionTitle pretitle="First step" title="How to get started">
+			{/* <SectionTitle pretitle="First step" title="How to get started">
 				If you don't want to use our backend, you can use your own API
 				key as the instruction below.
 			</SectionTitle>
-			<Guide />
+			<Guide /> */}
 			{/* <SectionTitle
 				pretitle="Testimonials"
 				title="Here's what our customers said"

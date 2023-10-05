@@ -28,11 +28,6 @@ const benefitOne = {
 			icon: <RocketLaunchIcon />,
 		},
 		{
-			title: "Model-agnostic Application",
-			desc: "Empower your experience by choosing your preferred AI model at best price.",
-			icon: <CubeTransparentIcon />,
-		},
-		{
 			title: "Privacy-Centric Design",
 			desc: "Your privacy is our utmost priority. LensQuery is designed with stringent data protection measures, ensuring your snaps and queries remain confidential. LensQuery can use your own API key and store it locally on your device.",
 			icon: <ShieldCheckIcon />,

@@ -57,10 +57,6 @@ const faqdata = [
 		answer: "LensQuery has a privacy-centric design. Users have the option to use their own API key which is stored securely on their device. Additionally, chats are never stored on the server, ensuring user data remains private.",
 	},
 	{
-		question: "What does 'Model-agnostic Approach' mean in LensQuery?",
-		answer: "The 'Model-agnostic Approach' means that LensQuery doesn't restrict you to a specific AI model. Instead, it allows users to choose their preferred AI model, offering flexibility and ensuring they get the best experience at the most optimal price.",
-	},
-	{
 		question: "Can I suggest a feature for LensQuery?",
 		answer: "Absolutely! Feedback, suggestions, and thoughts from the community are highly valued. If you have an idea or a feature suggestion, you're encouraged to reach out and share it. Your input can contribute to the growth and improvement of LensQuery.",
 	},
